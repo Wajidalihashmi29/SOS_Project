@@ -30,7 +30,12 @@ This is the backend service for the **SOS Project**, a system designed to manage
          "lastName": "Doe",
          "email": "johndoe@example.com",
          "password": "password123",
-         "contactNumber": 1234567890
+         "contactNumber": 1234567890,
+         "emergencyNumber1":"5646458698",
+         "emergencyNumber2":"5646586984",
+         "emergencyNumber3":"5646455984",
+         "emergencyNumber4":"5646475639",
+         "emergencyNumber5":"5646458698"
      }
      ```
    - **Response**:
