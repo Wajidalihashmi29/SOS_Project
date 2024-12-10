@@ -1,4 +1,4 @@
-# SOS Backend Project
+# SOS Project Backend
 
 ## Description
 This is the backend service for the **SOS Project**, a system designed to manage user accounts and provide functionality for storing and updating emergency contact information. It is built using **Node.js** with support for user authentication and authorization.
